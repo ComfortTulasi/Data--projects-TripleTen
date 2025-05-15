@@ -4,16 +4,16 @@ TripleTen-Projects
 Projects I worked on during TripleTen bootcamp Program
 
 
-Projects Numbers    | Title                       |    Description
-------------------- |-----------------------------|---------------------
+Projects Numbers     | Title                        |    Description
+-------------------  |----------------------------- |---------------------
                      
-1						         |	Zomato sales Analysis		  |   	The project task was to Analyze performance or dyanamic of sales distribution over 
+1						          |	Zomato sales Analysis		     | 	The project task was to Analyze performance or dyanamic of sales distribution over 
                                                           time and find the cause
 
 
 
 
-2					   	       |	Shopify Apps Analysis		   | The project task was to find the KPI and Analyze which developer has most responsive    
+2					   	       |	Shopify Apps Analysis		    | The project task was to find the KPI and Analyze which developer has most responsive    
                                                      reviews of Apps.
 
 
