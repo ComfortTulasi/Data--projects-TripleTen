@@ -1,1 +1,1 @@
-# Data-projects-TripleTen
+TripleTen-Projects
