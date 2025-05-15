@@ -1,9 +1,11 @@
 TripleTen-Projects
 
+
 Projects I worked on during TripleTen bootcamp Program
 
 
 Projects   | Title                  | Description
+
 Number
 1						|	Zomato sales Analysis		|	The project task was to Analyze performance or dyanamic of sales distribution over time and find the cause
 
