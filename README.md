@@ -8,7 +8,7 @@ Projects Numbers    | Title                       |    Description
 ------------------- |-----------------------------|---------------------
                      
 1						         |	Zomato sales Analysis		  |   	The project task was to Analyze performance or dyanamic of sales distribution over 
-                                                          time and find the cause
+---------------------|----------------------------|                                                          time and find the cause
 
 
 
