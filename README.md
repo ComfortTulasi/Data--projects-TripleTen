@@ -14,4 +14,4 @@ Portfolio of completed projects I worked on while attending the Business Intelli
 | 8 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 9 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 10| [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-The project task was to find the KPI and Analyze which developer has most responsive reviews of Apps.(Power BI)
+
