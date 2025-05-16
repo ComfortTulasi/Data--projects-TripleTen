@@ -26,4 +26,4 @@ Projects Numbers     | Title                             |    Description
 
                                                        
 4                  |Superstore Profit and Loss Analysis     | The project task is to Analyze superstore operation's and increase it's profitability and avoid bankruptcy.using data 
-                                                            | visualization.(Tableau)
+                                                             visualization.(Tableau)
