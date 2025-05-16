@@ -4,21 +4,26 @@ TripleTen-Projects
 Projects I worked on during TripleTen bootcamp Program
 
 
-Projects Numbers     | Title                        |    Description
--------------------  |----------------------------- |---------------------
+Projects Numbers     | Title                             |    Description
+-------------------  |---------------------------------- |---------------------
                      
-1						          |	Zomato sales Analysis		     | 	The project task was to Analyze performance or dyanamic of sales distribution over 
-                                                          time and find the cause
+1						          |	Zomato sales Analysis		         | 	The project task was to Analyze performance or dyanamic of sales overtime, KPI and change in distribution of sales (Tableau) 
+                                                        
 
 
 
 
-2					   	       |	Shopify Apps Analysis		    | The project task was to find the KPI and Analyze which developer has most responsive    
-                                                     reviews of Apps.
+2					   	       |	Shopify Apps Analysis		          |  The project task was to find the KPI and Analyze which developer has most responsive    
+                                                          |  reviews of Apps.(Power BI)
 
 
 
 
 
-3						        |Superstore Returned Analysis	  |    The project task was to prepare analysis to understand what is causing customers to  
-                                                       return their orders and how to reduce the volume of returned of orders 																		
+3						        |Superstore Returned Analysis	          | The project task was to prepare analysis to understand what is causing customers to  
+                                                            |   return their orders and how to reduce the volume of returned of orders (Tableau)									
+
+
+                                                       
+4                  |Superstore Profit and Loss Analysis     | The project task is to Analyze superstore operation's and increase it's profitability and avoid bankruptcy.using data 
+                                                            | visualization.(Tableau)
