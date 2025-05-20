@@ -48,7 +48,7 @@ The analysis leveraged various visualizations to uncover insights:
 
 ## Dashboard for Monitoring Returns
 
-The project included the creation of a Tableau dashboard for monitoring returns. This involved:
+The project included the creation of a Tableau dashboard for monitoring returns.This involved:
 
 1.  **Low-Fidelity Mock-ups**: Three variations of pen-and-paper sketches for the dashboard design.
 2.  **Dashboard Template**: A template created in Tableau using empty containers to match the chosen mock-up.
